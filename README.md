@@ -15,3 +15,7 @@ ssh-keygen -C john.m.darley@gmail.com
 ls ~/.ssh
 cat ~/.ssh/id_rsa.pub
 ssh-add
+
+HTML & CSS
+Font Awesome
+Google Fonts
