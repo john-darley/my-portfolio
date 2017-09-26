@@ -3,7 +3,7 @@ version: 0.1
 phases:
   build:
     commands:
-      -echo nothing doing yet
+      - echo nothing doing yet
 artifacts:
   files:
     - index.html
