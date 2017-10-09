@@ -10,7 +10,7 @@ const myWork = [
     'desc': "this is some text, but I'm not sure about formatting",
     'image': {
       'desc': "snippet of CFN YAML code",
-      'src': "",
+      'src': "images/cfn.png",
       'comment': "this is the comment section"
     }
   },
