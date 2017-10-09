@@ -5,16 +5,18 @@ import ExampleWork from './example-work';
 const myWork = [
   {
     'title': "Cloud Formation",
-    'hef': "https://example.com",
-    'desc': "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    'subhead': "Summary",
+    'hef': "http://johndarley.info",
+    'desc': "this is some text, but I'm not sure about formatting",
     'image': {
       'desc': "snippet of CFN YAML code",
-      'src': "images/cfn.png",
-      'comment': ""
+      'src': "",
+      'comment': "this is the comment section"
     }
   },
   {
     'title': "AWS AMI Userdata Powershell",
+    'subhead': "Summary",
     'hef': "https://example.com",
     'desc': "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
 
@@ -26,6 +28,7 @@ const myWork = [
   },
   {
     'title': "Microsoft WebOps - IIS internals",
+    'subhead': "Summary",
     'hef': "https://example.com",
     'desc': "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
     'image': {
