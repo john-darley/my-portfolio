@@ -2,7 +2,7 @@
 
 This is my professional portfolio. It uses AWS and ReactJS
 
-## TEchnolgies used
+## Technolgies used
 Git and GitHub
 atom README.md - made a change
 git status
